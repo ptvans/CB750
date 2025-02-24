@@ -114,7 +114,7 @@ function App() {
 
               <div className="mt-6">
                 <p className="text-gray-700">
-                  For valuable consideration, the receipt of which is hereby acknowledged, the Seller does hereby sell, transfer, and convey to the Buyer all rights, title, and interest in the above-described vehicle.
+                  For valuable consideration in the amount of $1,500 USD (plus delivery fee), the Seller does hereby sell, transfer, and convey to the Buyer all rights, title, and interest in the above-described vehicle.
                 </p>
                 <p className="mt-4 text-gray-700">
                   The vehicle is sold "AS IS" and the Seller makes no warranties, express or implied, regarding the condition or title of the vehicle.
